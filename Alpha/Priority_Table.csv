@@ -1,0 +1,134 @@
+KSS,KSA,Description,KSA Points,Question Points,CSR,Weight,Active W,Exclude,Effort,Forecast,Priority
+Browse,Connected Content,Is connected content used logically across the website? ,30,10,1,1.0,0.2,False,40,,0.6
+Browse,Content Blocks,Are content blocks used to highlight popular products and categories?,50,10,3,0.2,0.12,False,1,,4.0
+Browse,Content Blocks,Are content blocks used to highlight promotional and/or marketing activities?,50,10,3,0.2,0.12,False,1,,4.0
+Browse,Content Blocks,Are these used on the Homepage?,50,10,0,0.2,0.0,False,8,,1.25
+Browse,Content Blocks,Are these used on PLP's?,50,10,0,0.2,0.0,False,8,,1.25
+Browse,Content Blocks,Are these used on PDP's?,50,10,3,0.2,0.12,False,8,,0.5
+Browse,Filters,Are the right amount of filter options given?,100,50,3,0.167,0.1,False,1,,6.7
+Browse,Filters,Are all filters relevant?,100,50,4,0.167,0.134,False,1,,3.3
+Browse,Filters,Can the user select at least one value from every attribute?,100,20,4,0.067,0.054,False,1,,1.3
+Browse,Filters,"Are filters being used for their true purpose, and not instead of subcategories/collections?",100,50,4,0.167,0.134,False,8,,0.41
+Browse,Filters,Are all important filter options captured?,100,50,0,0.167,0.0,False,40,,0.42
+Browse,Filters,Can the user select multiple values for at least one attribute?,100,20,2,0.067,0.027,False,40,,0.1
+Browse,Filters,Are they intuitive?,100,10,0,0.033,0.0,False,40,,0.08
+Browse,Filters,Is there an 'apply filters' button?,100,20,5,0.067,0.067,False,1,,0.0
+Browse,Filters,Does the filter menu close as soon as the user selects a value?,100,20,5,0.067,0.067,False,1,,0.0
+Browse,Filters,Do filter options indicate how many products correspond to that filter?,100,10,2,0.033,0.013,False,1,,2.0
+Browse,Guided Selling,"If available, is the process and outcome relevant?",20,10,1,0.333,0.067,False,80,,0.07
+Browse,Guided Selling,Is guided selling available for all relevant products?,20,20,2,0.667,0.267,False,160,,0.05
+Browse,Landing Pages,Are specific landing pages available for all main terms?,40,20,0,0.667,0.0,False,8,,3.33
+Browse,Landing Pages,Are these optimised for SEO purposes?,40,10,0,0.333,0.0,False,8,,1.67
+Browse,Pagination and Sorting,Is a load more button present at the bottom of the list?,40,20,0,0.138,0.0,False,1,,5.52
+Browse,Pagination and Sorting,Are all the 'sort by' options needed?,40,20,3,0.138,0.083,False,1,,2.2
+Browse,Pagination and Sorting,Do all 'sort by' options make sense to a customer?,40,20,4,0.138,0.11,False,1,,1.12
+Browse,Pagination and Sorting,"Are some or all of the sort by options true to purpose, and not attributes that should instead be on filters?",40,20,4,0.138,0.11,False,1,,1.12
+Browse,Pagination and Sorting,Is the URL of the paginated pages SEO optimised?,40,10,2,0.069,0.028,False,40,,0.04
+Browse,Pagination and Sorting,Is the appropriate list/grid view option enabled?,40,10,2,0.069,0.028,False,80,,0.02
+Browse,Pagination and Sorting,Does the site use infinite scrolling?,40,5,0,0.034,0.0,False,160,,0.01
+Browse,Pagination and Sorting,Does the site use pagination?,40,10,5,0.069,0.069,False,1,,0.0
+Browse,Pagination and Sorting,Does the site use the load ALL button at the bottom of the list?,40,10,5,0.069,0.069,False,1,,0.0
+Browse,Pagination and Sorting,Does the product listing page specify how many products are in this category/collection?,40,10,3,0.069,0.041,False,1,,1.12
+Browse,Pagination and Sorting,"When using pagination/'load more' button, does the URL change?",40,10,0,0.069,0.0,False,160,,0.02
+Browse,Recommendations,Are recommendations shown on the homepage?,80,10,1,0.125,0.025,False,40,,0.2
+Browse,Recommendations,Are recommendations shown on PLP's?,80,10,2,0.125,0.05,False,40,,0.15
+Browse,Recommendations,Are recommendations shown on PDP's?,80,10,1,0.125,0.025,False,40,,0.2
+Browse,Recommendations,Are recommendations  shown in the checkout flow with an option to quick add to cart?,80,10,0,0.125,0.0,False,40,,0.25
+Browse,Recommendations,Are recommendations AI driven?,80,10,0,0.125,0.0,False,40,,0.25
+Browse,Recommendations,Are recommendations different and personalised for each user? ,80,10,1,0.125,0.025,False,40,,0.2
+Browse,Recommendations,Are recommendations shown differently for when a user is logged into their account?,80,10,1,0.125,0.025,False,40,,0.2
+Browse,Recommendations,Is the recommendation selection relevant?,80,10,0,0.125,0.0,False,40,,0.25
+Browse,Search,Are there no more than 50 products returned from the search query?,90,10,0,0.033,0.0,False,1,,2.97
+Browse,Search,Are natural language and mispells recognised?,90,50,0,0.167,0.0,False,8,,1.88
+Browse,Search,Does the search preview render quickly with both text & images?,90,50,2,0.167,0.067,False,8,,1.12
+Browse,Search,Are results relevant and personalised for the user?,90,20,0,0.067,0.0,False,8,,0.75
+Browse,Search,"Are support, content and other CMS pages surfaced within search?",90,50,0,0.167,0.0,False,40,,0.38
+Browse,Search,Are alternative languages recognised? (where applicable),90,50,0,0.167,0.0,False,40,,0.38
+Browse,Search,Does search provide pro-active suggestions when the user clicks inside the box?,90,20,0,0.067,0.0,False,40,,0.15
+Browse,Search,Are available stock/products prioritised ahead of back order / or OOS product?,90,20,1,0.067,0.013,False,40,,0.12
+Browse,Search,Does the search landing page render quickly and with relevant results?,90,10,4,0.033,0.026,False,8,,0.08
+Browse,Search,Is the number of search results listed on the landing page?,90,10,1,0.033,0.007,False,40,,0.06
+Browse,Search,Are filters/sort and other browsing features enabled on the search landing page?,90,10,5,0.033,0.033,False,1,,0.0
+Browse,Taxonomy,Is the search box prominent on the page?,100,50,1,0.175,0.035,False,40,,0.35
+Browse,Taxonomy,Is the information hierarchy logical for the customer?,100,50,3,0.175,0.105,False,40,,0.17
+Browse,Taxonomy,Are all options/elements within the mega menu shown above the fold?,100,50,3,0.175,0.105,False,40,,0.17
+Browse,Taxonomy,"Are account & registration, wishlist & cart all accessible from the header?",100,20,0,0.07,0.0,False,40,,0.18
+Browse,Taxonomy,Are 'shopping' options separate from customer service & content options within the mega menu?,100,20,2,0.07,0.028,False,40,,0.11
+Browse,Taxonomy,"Are menu options listed by most popular, followed by an alphabetical logic?",100,20,2,0.07,0.028,False,40,,0.11
+Browse,Taxonomy,Is the mega menu clear and well formatted?,100,20,3,0.07,0.042,False,40,,0.07
+Browse,Taxonomy,Are there no more than 3 layers of categories & subcategories within the menu?,100,50,5,0.175,0.175,False,1,,0.0
+Browse,Taxonomy,"On desktop, is the mega menu responsive on hover?",100,5,5,0.018,0.018,False,40,,0.0
+Browse,User Generated Content,Are UGC images used across the site?,10,1,0,1.0,0.0,False,8,,1.25
+Feedback,Customer Service 6,Is feedback reviewed regularly by the business?,20,20,2,0.667,0.267,False,8,,1.0
+Feedback,Customer Service 6,"Is customer service feedback collated, discussed internally, and used to improve products & service?",20,10,3,0.333,0.2,False,8,,0.33
+Feedback,Reviews 6,Are service reviews collected?,60,20,4,0.4,0.32,False,8,,0.6
+Feedback,Reviews 6,Is review feedback discussed internally and used to improve products & processes?,60,20,4,0.4,0.32,False,8,,0.6
+Feedback,Reviews 6,Are we collecting and displaying both positive & negative reviews?,60,10,3,0.2,0.12,False,8,,0.6
+Feedback,Social 6,Is social feedback collected and reviewed?,20,1,1,1.0,0.2,False,8,,2.0
+Purchase,Checkout/Cart,Is postcode/address lookup available?,80,20,3,0.208,0.125,False,1,,6.64
+Purchase,Checkout/Cart,"Is the checkout flow logical, clear and quick?",80,20,0,0.208,0.0,False,8,,2.08
+Purchase,Checkout/Cart,"If customer is logged in, is their information automatically filled at checkout? ",80,50,2,0.521,0.208,False,80,,0.31
+Purchase,Checkout/Cart,Is there a guest checkout option?,80,1,0,0.01,0.0,False,8,,0.1
+Purchase,Checkout/Cart,Are social logins available at checkout?,80,5,2,0.052,0.021,False,40,,0.06
+Purchase,Confirmation,Does this contain links to relevant content?,40,5,2,0.045,0.018,False,1,,1.08
+Purchase,Confirmation,Is the confirmation clear and does it contain all details for the order including product & customer info?,40,50,3,0.446,0.268,False,40,,0.18
+Purchase,Confirmation,Does the confirmation contain a request for feedback?,40,20,0,0.179,0.0,False,40,,0.18
+Purchase,Confirmation,Does this contain a quick link to view the order back on the website?,40,1,0,0.009,0.0,False,8,,0.04
+Purchase,Confirmation,Does this contain recommendations?,40,1,0,0.009,0.0,False,8,,0.04
+Purchase,Confirmation,Is the purchase confirmation received immediately after purchase?,40,5,0,0.045,0.0,False,80,,0.02
+Purchase,Confirmation,Does this contain details for customer service?,40,20,5,0.179,0.179,False,8,,0.0
+Purchase,Confirmation,Does this contain social share prompts?,40,10,5,0.089,0.089,False,8,,0.0
+Purchase,Payment Options,Are payments in instalments available?,60,20,0,0.645,0.0,False,40,,0.97
+Purchase,Payment Options,Are localised payment methods offered?,60,1,0,0.032,0.0,False,8,,0.24
+Purchase,Payment Options,Are one-click payment methods available?,60,10,3,0.323,0.194,False,40,,0.19
+Purchase,Policies,Are policies easily accessible within the checkout flow?,30,10,0,0.5,0.0,False,1,,15.0
+Purchase,Policies,Can the customer stay within the checkout flow and access the policies?,30,10,3,0.5,0.3,False,1,,6.0
+Purchase,Price Clarity,Does pricing change/update on the PDP when the customer amends the quantity?,80,50,0,0.5,0.0,False,8,,5.0
+Purchase,Price Clarity,Are prices updated based on the customers shipping location?,80,20,5,0.2,0.2,False,8,,0.0
+Purchase,Price Clarity,"Are prices all inclusive of any relevant tax, duty and admin charges?",80,20,5,0.2,0.2,False,8,,0.0
+Purchase,Price Clarity,Is multi-currency available?,80,10,5,0.1,0.1,False,8,,0.0
+Purchase,Security,Are all relevant security certificates in place?,100,20,5,0.5,0.5,False,8,,0.0
+Purchase,Security,Is the padlock icon shown alongside the URL?,100,20,5,0.5,0.5,False,8,,0.0
+Receive,Customer Service 4,Is an instant reply system available eg. live chat/chat bot?,60,10,4,0.909,0.727,False,8,,1.37
+Receive,Customer Service 4,"Are SLA's clearly defined, and met by the customer service team?",60,1,1,0.091,0.018,False,8,,0.55
+Receive,On-site Status Update 4,Can guest customers still view the status of their order on-site?,30,50,0,0.714,0.0,False,40,,0.54
+Receive,On-site Status Update 4,Are statuses updated pro-actively on-site?,30,20,2,0.286,0.114,False,40,,0.13
+Receive,Status Update Notification 4,Are update notifications provided by email?,40,10,1,0.25,0.05,False,8,,1.0
+Receive,Status Update Notification 4,Are update notifications provided pro-actively?,40,20,3,0.5,0.3,False,8,,1.0
+Receive,Status Update Notification 4,Are update notifications provided by SMS?,40,10,0,0.25,0.0,False,40,,0.25
+Receive,Support Page 4,"Is the support page comprehensive, containing all information the customer needs post-order?",30,20,2,0.5,0.2,False,1,,9.0
+Receive,Support Page 4,Does this contain quick access to customer service?,30,20,3,0.5,0.3,False,1,,6.0
+Receive,Tracking Info 4,Is tracking info provided by SMS?,80,10,0,0.167,0.0,False,8,,1.67
+Receive,Tracking Info 4,Is tracking info provided pro-actively?,80,20,1,0.333,0.067,False,40,,0.53
+Receive,Tracking Info 4,Can the customer track their order on-site as opposed to the third party courier site?,80,10,0,0.167,0.0,False,40,,0.33
+Receive,Tracking Info 4,Is tracking info provided by email?,80,20,5,0.333,0.333,False,8,,0.0
+Return,Customer Service 5,Is an instant reply system available eg.: live chat/chat bot?,30,10,4,0.909,0.727,False,8,,0.68
+Return,Customer Service 5,Are SLA's clearly defined and met by the customer service team?,30,1,1,0.091,0.018,False,8,,0.27
+Return,On-site Status Update 5,Are on-site statuses updated pro-actively?,10,20,0,0.5,0.0,False,8,,0.62
+Return,On-site Status Update 5,Can guest customers track the status of their return on-site?,10,20,0,0.5,0.0,False,8,,0.62
+Return,Status Update Notification 5,Are update notifications provided pro--actively?,10,20,0,0.4,0.0,False,8,,0.5
+Return,Status Update Notification 5,Are update notifications provided by e-mail?,10,20,0,0.4,0.0,False,8,,0.5
+Return,Status Update Notification 5,Are update notifications provided by SMS? ,10,10,0,0.2,0.0,False,8,,0.25
+Return,Support Page 5,"Is the support page comprehensive, containing all information the customer needs in the return phase?",30,20,1,0.5,0.1,False,8,,1.5
+Return,Support Page 5,Does this contain fast access to customer service?,30,20,2,0.5,0.2,False,8,,1.12
+Return,Tracking Info 5,Is return tracking info provided by email?,20,20,1,0.4,0.08,False,8,,0.8
+Return,Tracking Info 5,Is return tracking information provided pro-actively?,10,10,0,0.2,0.0,False,8,,0.25
+Return,Tracking Info 5,Is return tracking info provided by SMS?,10,10,0,0.2,0.0,False,8,,0.25
+Return,Tracking Info 5,Can the customer track their return on-site as opposed to just via the third party courier site?,10,10,0,0.2,0.0,False,8,,0.25
+Validate,Customer Service 2,Is there a comprehensive self-service available for the customer?,80,20,2,0.4,0.16,False,1,,19.2
+Validate,Customer Service 2,Is there an instant reply system on-site eg. live chat/chat bot?,80,20,4,0.4,0.32,False,8,,0.8
+Validate,Customer Service 2,Are there localised phone numbers available where relevant?,80,10,5,0.2,0.2,False,8,,0.0
+Validate,Images/Videos,Are product videos available on-site?,90,5,3,0.417,0.25,False,8,,1.88
+Validate,Images/Videos,Are images of good quality?,90,1,0,0.083,0.0,False,8,,0.93
+Validate,Images/Videos,Do images provide a true representation of the product?,90,5,4,0.417,0.334,False,8,,0.93
+Validate,Images/Videos,Are images aligned and consistent across all products and categories?,90,1,2,0.083,0.033,False,8,,0.56
+Validate,Product Comparison,Is a product comparison available on the website?,50,50,0,1.0,0.0,False,8,,6.25
+Validate,Product Comparison,"If available, is the product comparison logical and easy to use?",50,0,0,0.0,0.0,False,1,,0.0
+Validate,Product Info,Is product info consistent and aligned across all items & categories?,90,50,2,0.5,0.2,False,8,,3.38
+Validate,Product Info,Is product info detailed and enriched for the user to get a true feel for the product?,90,50,3,0.5,0.3,False,8,,2.25
+Validate,Returns Policies,Is there quick access to the return policy from the PDP?,70,10,0,1.0,0.0,False,1,,70.0
+Validate,Reviews 2,Are the majority of products reviewed?,80,50,1,0.455,0.091,False,8,,3.64
+Validate,Reviews 2,Are product reviews shown on-site?,80,20,3,0.182,0.109,False,8,,0.73
+Validate,Reviews 2,Are company/overall business reviews available on-site?,80,20,3,0.182,0.109,False,8,,0.73
+Validate,Reviews 2,Are there replies to reviews where necessary?,80,20,4,0.182,0.146,False,8,,0.36
+Validate,Social Feed,Is a social feed relating specifically to the product shown on the PDP?,30,1,0,1.0,0.0,False,8,,3.75

@@ -1,0 +1,134 @@
+pillar,ksa,description
+Browse,Connected Content,Is connected content used logically across the website? 
+Browse,Content Blocks,Are content blocks used to highlight popular products and categories?
+Browse,Content Blocks,Are content blocks used to highlight promotional and/or marketing activities?
+Browse,Content Blocks,Are these used on the Homepage?
+Browse,Content Blocks,Are these used on PLP's?
+Browse,Content Blocks,Are these used on PDP's?
+Browse,Filters,Are the right amount of filter options given?
+Browse,Filters,Are all filters relevant?
+Browse,Filters,Can the user select at least one value from every attribute?
+Browse,Filters,"Are filters being used for their true purpose, and not instead of subcategories/collections?"
+Browse,Filters,Are all important filter options captured?
+Browse,Filters,Can the user select multiple values for at least one attribute?
+Browse,Filters,Are they intuitive?
+Browse,Filters,Is there an 'apply filters' button?
+Browse,Filters,Does the filter menu close as soon as the user selects a value?
+Browse,Filters,Do filter options indicate how many products correspond to that filter?
+Browse,Guided Selling,"If available, is the process and outcome relevant?"
+Browse,Guided Selling,Is guided selling available for all relevant products?
+Browse,Landing Pages,Are specific landing pages available for all main terms?
+Browse,Landing Pages,Are these optimised for SEO purposes?
+Browse,Pagination and Sorting,Is a load more button present at the bottom of the list?
+Browse,Pagination and Sorting,Are all the 'sort by' options needed?
+Browse,Pagination and Sorting,Do all 'sort by' options make sense to a customer?
+Browse,Pagination and Sorting,"Are some or all of the sort by options true to purpose, and not attributes that should instead be on filters?"
+Browse,Pagination and Sorting,Is the URL of the paginated pages SEO optimised?
+Browse,Pagination and Sorting,Is the appropriate list/grid view option enabled?
+Browse,Pagination and Sorting,Does the site use infinite scrolling?
+Browse,Pagination and Sorting,Does the site use pagination?
+Browse,Pagination and Sorting,Does the site use the load ALL button at the bottom of the list?
+Browse,Pagination and Sorting,Does the product listing page specify how many products are in this category/collection?
+Browse,Pagination and Sorting,"When using pagination/'load more' button, does the URL change?"
+Browse,Recommendations,Are recommendations shown on the homepage?
+Browse,Recommendations,Are recommendations shown on PLP's?
+Browse,Recommendations,Are recommendations shown on PDP's?
+Browse,Recommendations,Are recommendations  shown in the checkout flow with an option to quick add to cart?
+Browse,Recommendations,Are recommendations AI driven?
+Browse,Recommendations,Are recommendations different and personalised for each user? 
+Browse,Recommendations,Are recommendations shown differently for when a user is logged into their account?
+Browse,Recommendations,Is the recommendation selection relevant?
+Browse,Search,Are there no more than 50 products returned from the search query?
+Browse,Search,Are natural language and mispells recognised?
+Browse,Search,Does the search preview render quickly with both text & images?
+Browse,Search,Are results relevant and personalised for the user?
+Browse,Search,"Are support, content and other CMS pages surfaced within search?"
+Browse,Search,Are alternative languages recognised? (where applicable)
+Browse,Search,Does search provide pro-active suggestions when the user clicks inside the box?
+Browse,Search,Are available stock/products prioritised ahead of back order / or OOS product?
+Browse,Search,Does the search landing page render quickly and with relevant results?
+Browse,Search,Is the number of search results listed on the landing page?
+Browse,Search,Are filters/sort and other browsing features enabled on the search landing page?
+Browse,Taxonomy,Is the search box prominent on the page?
+Browse,Taxonomy,Is the information hierarchy logical for the customer?
+Browse,Taxonomy,Are all options/elements within the mega menu shown above the fold?
+Browse,Taxonomy,"Are account & registration, wishlist & cart all accessible from the header?"
+Browse,Taxonomy,Are 'shopping' options separate from customer service & content options within the mega menu?
+Browse,Taxonomy,"Are menu options listed by most popular, followed by an alphabetical logic?"
+Browse,Taxonomy,Is the mega menu clear and well formatted?
+Browse,Taxonomy,Are there no more than 3 layers of categories & subcategories within the menu?
+Browse,Taxonomy,"On desktop, is the mega menu responsive on hover?"
+Browse,User Generated Content,Are UGC images used across the site?
+Feedback,Customer Service 6,Is feedback reviewed regularly by the business?
+Feedback,Customer Service 6,"Is customer service feedback collated, discussed internally, and used to improve products & service?"
+Feedback,Reviews 6,Are service reviews collected?
+Feedback,Reviews 6,Is review feedback discussed internally and used to improve products & processes?
+Feedback,Reviews 6,Are we collecting and displaying both positive & negative reviews?
+Feedback,Social 6,Is social feedback collected and reviewed?
+Purchase,Checkout/Cart,Is postcode/address lookup available?
+Purchase,Checkout/Cart,"Is the checkout flow logical, clear and quick?"
+Purchase,Checkout/Cart,"If customer is logged in, is their information automatically filled at checkout? "
+Purchase,Checkout/Cart,Is there a guest checkout option?
+Purchase,Checkout/Cart,Are social logins available at checkout?
+Purchase,Confirmation,Does this contain links to relevant content?
+Purchase,Confirmation,Is the confirmation clear and does it contain all details for the order including product & customer info?
+Purchase,Confirmation,Does the confirmation contain a request for feedback?
+Purchase,Confirmation,Does this contain a quick link to view the order back on the website?
+Purchase,Confirmation,Does this contain recommendations?
+Purchase,Confirmation,Is the purchase confirmation received immediately after purchase?
+Purchase,Confirmation,Does this contain details for customer service?
+Purchase,Confirmation,Does this contain social share prompts?
+Purchase,Payment Options,Are payments in instalments available?
+Purchase,Payment Options,Are localised payment methods offered?
+Purchase,Payment Options,Are one-click payment methods available?
+Purchase,Policies,Are policies easily accessible within the checkout flow?
+Purchase,Policies,Can the customer stay within the checkout flow and access the policies?
+Purchase,Price Clarity,Does pricing change/update on the PDP when the customer amends the quantity?
+Purchase,Price Clarity,Are prices updated based on the customers shipping location?
+Purchase,Price Clarity,"Are prices all inclusive of any relevant tax, duty and admin charges?"
+Purchase,Price Clarity,Is multi-currency available?
+Purchase,Security,Are all relevant security certificates in place?
+Purchase,Security,Is the padlock icon shown alongside the URL?
+Receive,Customer Service 4,Is an instant reply system available eg. live chat/chat bot?
+Receive,Customer Service 4,"Are SLA's clearly defined, and met by the customer service team?"
+Receive,On-site Status Update 4,Can guest customers still view the status of their order on-site?
+Receive,On-site Status Update 4,Are statuses updated pro-actively on-site?
+Receive,Status Update Notification 4,Are update notifications provided by email?
+Receive,Status Update Notification 4,Are update notifications provided pro-actively?
+Receive,Status Update Notification 4,Are update notifications provided by SMS?
+Receive,Support Page 4,"Is the support page comprehensive, containing all information the customer needs post-order?"
+Receive,Support Page 4,Does this contain quick access to customer service?
+Receive,Tracking Info 4,Is tracking info provided by SMS?
+Receive,Tracking Info 4,Is tracking info provided pro-actively?
+Receive,Tracking Info 4,Can the customer track their order on-site as opposed to the third party courier site?
+Receive,Tracking Info 4,Is tracking info provided by email?
+Return,Customer Service 5,Is an instant reply system available eg. live chat/chat bot?
+Return,Customer Service 5,"Are SLA's clearly defined, and met by the customer service team?"
+Return,On-site Status Update 5,Are on-site statuses updated pro-actively?
+Return,On-site Status Update 5,Can guest customers track the status of their return on-site?
+Return,Status Update Notification 5,Are update notifications provided pro-actively?
+Return,Status Update Notification 5,Are update notifications provided by email?
+Return,Status Update Notification 5,Are update notifications provided by SMS? 
+Return,Support Page 5,"Is the support page comprehensive, containing all information the customer needs in the return phase?"
+Return,Support Page 5,Does this contain quick access to customer service?
+Return,Tracking Info 5,Is return tracking info provided by email?
+Return,Tracking Info 5,Is return tracking information provided pro-actively?
+Return,Tracking Info 5,Is return tracking info provided by SMS?
+Return,Tracking Info 5,Can the customer track their return on-site as opposed to just via the third party courier site?
+Validate,Customer Service 2,Is there a comprehensive self-service available for the customer?
+Validate,Customer Service 2,Is there an instant reply system on-site eg. live chat/chat bot?
+Validate,Customer Service 2,Are there localised phone numbers available where relevant?
+Validate,Images/Videos,Are product videos available on-site?
+Validate,Images/Videos,Are images of good quality?
+Validate,Images/Videos,Do images provide a true representation of the product?
+Validate,Images/Videos,Are images aligned and consistent across all products and categories?
+Validate,Product Comparison,Is a product comparison available on the website?
+Validate,Product Comparison,"If available, is the product comparison logical and easy to use?"
+Validate,Product Info,Is product info consistent and aligned across all items & categories?
+Validate,Product Info,Is product info detailed and enriched for the user to get a true feel for the product?
+Validate,Returns Policies,Is there quick access to the return policy from the PDP?
+Validate,Reviews 2,Are the majority of products reviewed?
+Validate,Reviews 2,Are product reviews shown on-site?
+Validate,Reviews 2,Are company/overall business reviews available on-site?
+Validate,Reviews 2,Are there replies to reviews where necessary?
+Validate,Social Feed,Is a social feed relating specifically to the product shown on the PDP?
